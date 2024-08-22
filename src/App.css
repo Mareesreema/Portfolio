@@ -1,0 +1,149 @@
+.nav-bar{
+  background-color:  #34353a !important;
+  padding: 20px;
+}
+.nav-links ul li{
+  display: inline-block;
+  color:white;
+  font-size: 20px;
+  padding: 10px;
+}
+.pannel{
+  background: #34353a !important;
+  padding: 50px;
+
+}
+.person-name{
+  color: orange;
+  font-size: 32px;
+  font-weight: 700;
+}
+.person-domain{
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+}
+.btn{
+  color: aliceblue;
+  font-size: 16px;
+  border-radius: 8px;
+}
+.about{
+  padding: 30px;
+  background-color: #34353a !important;
+}
+.person-about{
+  margin-left: 50px;
+  font-size: 18px;
+  color: white;
+  text-align: justify;
+}
+.abt{
+  margin-left: 30px;
+  padding: 20px;
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+}
+.my-skills{
+  padding: 20px;
+  text-align: center;
+  padding: 30px;
+  background-color: #34353a !important;
+}
+.skills{
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+}
+.category{
+  font-size: 16px;
+  color: black;
+  background-color: lightgray;
+  height: 178px;
+  width: 100%;
+  border-radius: 8px;
+  text-align: center;
+  padding: 40px;
+  margin: 10px 0;
+}
+.html{
+  padding: 30px;
+}
+
+.css{
+  padding: 30px;
+}
+.bootstrap{
+  padding: 30px;
+}
+.mysql{
+  padding: 30px;
+}
+.js{
+  padding: 30px;
+}
+.nodejs{
+  padding: 30px;
+}
+.nextjs{
+  padding: 30px;
+}
+.java{
+  padding: 40px;
+}
+.portfolio{
+  background-color:  #34353a !important;
+  padding: 30px;
+}
+.port{
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+}
+.portfolio-port{
+  padding: 30px;
+  border-radius: 10px;
+}
+.contact{
+  background-color: #34353a !important;
+  padding: 30px;
+}
+.contact-me{
+  background-color: #34353a !important;
+  padding: 30px;
+
+}
+.cont{
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+}
+.mail{
+  font-size: 19px;
+  font-weight: 500;
+  color: black;
+  background-color: orange;
+  width: 72%;
+  text-align: center;
+  border-radius: 8px;
+  padding: 10px;
+  margin-block: 72px;
+  margin-block-start: 0 100px;
+}
+.location{
+  font-size: 19px;
+  font-weight: 500;
+  color: black;
+  background-color: orange;
+  width: 72%;
+  text-align: center;
+  border-radius: 8px;
+  padding: 10px;
+  margin-block: 72px;
+  margin-block-start: 0 100px;
+ 
+}
