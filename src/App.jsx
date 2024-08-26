@@ -3,8 +3,8 @@ import './App.css'
 import css from './assets/images/CSS-Logo.png'
 import bootstrap from './assets/images/bootstrap.png'
 import html from './assets/images/html.png'
-import java from './assets/images/java-Logo.jpg'
-import javascript from './assets/images/javaScript-Logo.png'
+import java from './assets/images/Java-Logo.jpg'
+import javascript from './assets/images/JavaScript-Logo.png'
 import mysql from './assets/images/mysql-logo.png'
 import reactjs from './assets/images/react-js.jpg'
 import nodejs from './assets/images/node-js.png'
@@ -125,7 +125,7 @@ export default function App() {
 <div className='col-md-12'>
 <div className='col-md-4'>
 <div className='portfolio-port'>
-<a href=''>
+<a href='https://github.com/Mareesreema/Chittis'>
 <img src={adaimavu} width={300} height={200}/>
 </a>
 </div>
@@ -139,7 +139,7 @@ export default function App() {
 </div>
 <div className='col-md-4'>
 <div className='portfolio-port'>
-<a href='/home'>
+<a href='https://github.com/Mareesreema/Portfolio'>
 <img src={portfolio} width={300} height={200}/>
 </a>
 </div>
