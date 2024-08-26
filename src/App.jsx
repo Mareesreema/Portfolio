@@ -25,7 +25,7 @@ export default function App() {
     <b>
     <li><a href='#about'>About</a></li>
     <li><a href='#portfolio'>Portfolio</a></li>
-    <li><a href='#contact'>contact</a></li>
+    <li><a href='#contact'>Contact</a></li>
     </b>
     </ul>
     </div>

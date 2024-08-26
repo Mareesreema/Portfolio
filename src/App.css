@@ -24,10 +24,16 @@
   font-weight: 500;
 }
 .btn{
-  color: aliceblue;
+  color: white;
   font-size: 16px;
   border-radius: 8px;
+  background-color: orange;
 }
+#contact{
+  text-decoration: none !important;
+  color: white;
+}
+
 .about{
   padding: 30px;
   background-color: #34353a !important;
